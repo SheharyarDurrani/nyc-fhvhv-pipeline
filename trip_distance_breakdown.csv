@@ -1,0 +1,5 @@
+trip_category,total_trips,pct,avg_driver_pay
+0-2 miles (Short),8076133,38.67,8.89
+2-5 miles (Medium),6747327,32.31,17.17
+5-10 miles (Long),3662510,17.54,27.97
+10+ miles (Very Long),2399447,11.49,52.17

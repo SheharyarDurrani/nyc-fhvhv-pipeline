@@ -1,0 +1,4 @@
+trip_type,total_trips,avg_driver_pay,avg_miles
+Airport Pickup,694779,47.86,14.45
+Airport Dropoff,835183,42.23,12.52
+Regular Trip,19355455,17.92,3.95
